@@ -20,6 +20,8 @@ function ContactForm(id) {
     .then(data => console.log(data))
   }
 
+  
+  
   const handlePost = () => {
     fetch(`${BASE_URL}/menu/${id}`, {
       method : "POST",
@@ -27,15 +29,12 @@ function ContactForm(id) {
         "Contact-Type" : "application/json"
       },
     })
+    .then(res => res.json())
+    .then(data => console.log(data))
     
   }
-
-
-
-
-
-
-
+  
+  
   return (
     
     <div className='contactForm'>
