@@ -45,7 +45,7 @@ function ContactForm(id) {
         <input className="name" placeholder="Enter Full Name.." type="text" />
         <label htmlFor="email"></label>
         <input className="email" placeholder="Enter Email.." type="email" />
-        <textarea rows= "6" placeholder="Enter Order Message.." name="message" required></textarea>
+        <textarea rows= "6" placeholder="Enter Pizza Type Order.." name="message" required></textarea>
         <button type="submit" onClick={handlePost}>Submit Order</button>
         <button className='delete' onClick={handleDelete}>Delete Order</button>
       </form>
