@@ -1,0 +1,27 @@
+ {  
+   "menu": [
+    
+    
+  {
+    "name": "Nomad's Speciality Pizza",
+    "image": "https://cache.dominos.com/wam/prod/market/MY/_en/images/promo/0d2d7c0a-8de2-4993-830d-88a3a451d407.jpg",
+    "price": 20.99
+  },
+  {
+    "name": "Veggie Pizza",
+    "image": "https://cache.dominos.com/wam/prod/market/MY/_en/images/promo/d667998f-5520-4898-b881-c1136fdf335a.jpg",
+    "price": 15.99
+  },
+  {
+    "name": "Pineapple Chicken Pizza",
+    "image": "https://cache.dominos.com/wam/prod/market/MY/_en/images/promo/f4bfe7d9-0075-4a1e-8797-d36714d0192f.jpg",
+    "price": 18.99
+  },
+  {
+    "name": "Cheese Pizza",
+    "image": "https://cache.dominos.com/wam/prod/market/MY/_en/images/promo/4d4db167-ae78-4344-84df-03080c4ef215.jpg",
+    "price": 10.99
+  }
+
+]
+}
